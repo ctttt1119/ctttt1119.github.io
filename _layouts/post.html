@@ -81,7 +81,26 @@ layout: default
                     {% endif %}
                 </ul>
 
+		<!-- Gitalk 评论 start  -->
 
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<div id="gitalk-container"></div>     <script type="text/javascript">
+    var gitalk = new Gitalk({
+
+    // gitalk的主要参数
+		clientID: `bb4f22b1a30ca2460c94`,
+		clientSecret: `70419d7b1cf658ccf859d3e0425f7e95179bc9a0`,
+		repo: `ctttt1119.github.io`,
+		owner: 'ctttt1119',
+		admin: ['ctttt1119'],
+		id: 'window.location.pathname',
+    
+    });
+    gitalk.render('gitalk-container');
+</script> 
+<!-- Gitalk end -->
                 <!--Gitalk评论start  -->
                <!-- {% if site.gitalk.enable %}-->
                 <!-- 引入Gitalk评论插件  -->
