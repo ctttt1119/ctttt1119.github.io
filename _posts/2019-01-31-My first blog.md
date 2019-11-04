@@ -3,7 +3,7 @@ layout:     post
 title:      My first blog
 subtitle:   say hi
 date:       2019-01-31
-author:     Darren
+author:     Shawn
 header-img: img/post-bg-hello.jpg
 catalog: true
 tags:
