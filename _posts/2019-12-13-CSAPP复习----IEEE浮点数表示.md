@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SCAPP复习
+title:      CSAPP复习
 subtitle:   IEEE浮点数表示
 date:       2019-12-13
 author:     Shawn
