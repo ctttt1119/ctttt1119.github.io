@@ -480,7 +480,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![output_24_0.png](https://i.loli.net/2020/02/25/ST74reEhIfNOaV1.png)
 
 
 
@@ -502,7 +502,6 @@ print('Got %d / %d correct => accuracy: %f' % (num_correct, num_test, accuracy))
 
     Got 141 / 500 correct => accuracy: 0.282000
 
-
 **Inline Question 3**
 
 Which of the following statements about $k$-Nearest Neighbor ($k$-NN) are true in a classification setting, and for all $k$? Select all that apply.
@@ -519,5 +518,4 @@ $\color{blue}{\textit Your Explanation:}$
 
 -----------------------
 
-Link to the complete code：[](https://github.com/ctttt1119/cs231n)
-
+Link to the complete code：https://github.com/ctttt1119/cs231n
