@@ -293,7 +293,7 @@ grad_numerical = grad_check_sparse(f, W, grad)
 
 It is possible that once in a while a dimension in the gradcheck will not match exactly. What could such a discrepancy be caused by? Is it a reason for concern? What is a simple example in one dimension where a gradient check could fail? How would change the margin affect of the frequency of this happening? *Hint: the SVM loss function is not strictly speaking differentiable*
 
-$\color{blue}{\textit Your Answer:}$ *fill this in.*  
+Your Answer:  
 
 
 
