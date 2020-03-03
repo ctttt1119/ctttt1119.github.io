@@ -191,7 +191,7 @@ plt.show()
 
 
 
-![![output_11_1.png](https://i.loli.net/2020/03/04/nkSTfMNl9eCdbpD.png)png](output_11_1.png)
+![output_11_1.png](https://i.loli.net/2020/03/04/nkSTfMNl9eCdbpD.png)
 
 
 # Load the data
@@ -325,9 +325,7 @@ plt.show()
 ```
 
 
-![![output_17_0.png](https://i.loli.net/2020/03/04/GCOzWNtZHLYcFQr.png)png](output_17_0.png)
-
-
+![output_17_0.png](https://i.loli.net/2020/03/04/GCOzWNtZHLYcFQr.png)
 
 ```python
 from cs231n.vis_utils import visualize_grid
@@ -345,7 +343,7 @@ show_net_weights(net)
 ```
 
 
-![![output_18_0.png](https://i.loli.net/2020/03/04/sOmy9SbVWFfKtXP.png)png](output_18_0.png)
+![output_18_0.png](https://i.loli.net/2020/03/04/sOmy9SbVWFfKtXP.png)
 
 
 # Tune your hyperparameters
@@ -948,7 +946,7 @@ show_net_weights(best_net)
 ```
 
 
-![![output_22_0.png](https://i.loli.net/2020/03/04/TeLJ7Xp1zDxi3Zq.png)png](output_22_0.png)
+![output_22_0.png](https://i.loli.net/2020/03/04/TeLJ7Xp1zDxi3Zq.png)
 
 
 # Run on the test set
