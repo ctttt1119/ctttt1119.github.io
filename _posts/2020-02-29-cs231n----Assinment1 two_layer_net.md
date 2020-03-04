@@ -976,6 +976,6 @@ Your Explanation:
 
 ----
 
-Link to the complete code：[https://github.com/ctttt1119/cs231n
+Link to the complete code：[https://github.com/ctttt1119/cs231n](https://github.com/ctttt1119/cs231n)
 
 
