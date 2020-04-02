@@ -942,3 +942,4 @@ print('dbeta error: ', rel_error(db_num, dbeta))
 ---
 
 Link to the complete code：[https://github.com/ctttt1119/cs231n](https://github.com/ctttt1119/cs231n)
+
