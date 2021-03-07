@@ -34,10 +34,10 @@ tags:
 
 安装包资源如下，matlab版本为R2017b
 
-链接：https://pan.baidu.com/s/1wijZCXIWsNXgz0yYYBXHnQ
+链接：[https://pan.baidu.com/s/1wijZCXIWsNXgz0yYYBXHnQ](https://pan.baidu.com/s/1wijZCXIWsNXgz0yYYBXHnQ)
 密码：e8b2
 
-后续安装及破解步骤参考https://blog.csdn.net/sjjbsj/article/details/102583432
+后续安装及破解步骤参考[https://blog.csdn.net/sjjbsj/article/details/102583432](https://blog.csdn.net/sjjbsj/article/details/102583432)
 
 ## 三、遇到的问题
 
